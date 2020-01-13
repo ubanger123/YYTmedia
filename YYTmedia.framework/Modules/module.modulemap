@@ -1,0 +1,6 @@
+framework module YYTmedia {
+  umbrella header "YYTmedia.h"
+
+  export *
+  module * { export * }
+}
